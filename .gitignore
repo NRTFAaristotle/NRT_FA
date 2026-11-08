@@ -1,0 +1,42 @@
+# ---------------------------------------------------------------
+# NRT_FA - Git ignore
+# ---------------------------------------------------------------
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Download cache
+cache/
+
+# Downloaded satellite data
+*.nc
+*.h5
+*.hdf5
+
+# Credentials and secrets
+.env
+*.env
+credentials*
+secrets*
+*.key
+
+# IDEs and editors
+.vscode/
+.idea/
+.spyproject/
+.spyderproject/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+# PowerPoint source files (used to create project diagrams)
+*.pptx

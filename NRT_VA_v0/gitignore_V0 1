@@ -1,0 +1,44 @@
+# ---------------------------------------------------------------
+# Near Real-Time Fire Analysis – .gitignore
+# ---------------------------------------------------------------
+
+# --- Program outputs (generated on each run) ---
+output/
+
+# --- Download cache (FRP / FREM files downloaded from LSA SAF) ---
+# Replace with the actual name of the cache folder used by the script
+cache/
+
+# --- Downloaded satellite data files ---
+*.nc
+*.h5
+*.hdf5
+
+# --- Credentials and secrets (never upload!) ---
+.env
+*.env
+credentials*
+secrets*
+*.key
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+
+# --- IDEs / editors ---
+.vscode/
+.idea/
+.spyproject/
+.spyderproject
+
+# --- Operating system files ---
+.DS_Store
+Thumbs.db
+desktop.ini
