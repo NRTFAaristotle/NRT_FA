@@ -161,7 +161,7 @@ At the end of a run, the application asks whether you want to clean the cache. E
 
 ## Credits
 
-Developed at the **Portuguese Institute of Sea and Atmosphere (IPMA)** by Diogo Sousa, Miguel Carvalho, Rita Duarte, Rita Durão and Célia Gouveia.
+Developed at the **Portuguese Institute of Sea and Atmosphere (IPMA)** by Célia Gouveia, Diogo Sousa, Miguel Carvalho, Rita Duarte, Rita Durão and Sandra Gomes.
 
 **Acknowledgements:** EUMETSAT LSA SAF, Copernicus Data Space Ecosystem.
 
